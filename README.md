@@ -1,5 +1,4 @@
-# laughing-octo-pancake
-# UNC BootCamp Final Project 
+# Diabetes Machine Learning Project
 
 #### Participants 
     - Kellie Brabec
